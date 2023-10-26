@@ -50,6 +50,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>Docker-IntegrationJar</finalName>
 	</build>
 
 </project>
